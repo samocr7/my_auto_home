@@ -1,0 +1,6 @@
+env/
+__pycache__/
+*.env
+*.env.*
+env.*
+docker_notes.txt
