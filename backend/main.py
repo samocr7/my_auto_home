@@ -8,7 +8,8 @@ app = FastAPI()
 
 origins = [
     "http://localhost",
-    "http://localhost:3000"
+    "http://localhost:3000",
+    "https://sams-auto-home-react-3js6vcbkca-uw.a.run.app"
 ]
 
 app.add_middleware(
